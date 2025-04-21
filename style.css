@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(12, 12, 12);
+    color: rgb(249, 247, 247);
+}
+a{
+    text-decoration: none;
+}
+ /* set color to black */
+a :hover{
+    color: rgb(5, 5, 5);
+}
+#for{
+    font-size: 18px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
